@@ -3,6 +3,16 @@ Here I will put scripts for school projects
 
 Player movement code
 
+
+
+
+
+
+
+
+
+
+
 using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
